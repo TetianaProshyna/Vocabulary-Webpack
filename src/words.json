@@ -1,0 +1,42 @@
+[
+  {
+    "word": "Combine Two Arrays",
+    "translation": "Объединить два массива" 
+  },
+  {
+    "word": "Entry",
+    "translation": "Вхождение" 
+  },
+  {
+    "word": "Multi-dimensional array",
+    "translation": "Многомерный массив" 
+  },
+  {
+    "word": "Nested array",
+    "translation": "Вложенный массив" 
+  },
+  {
+    "word": "Access the data inside arrays",
+    "translation": "Доступ к данным внутри массивов" 
+  },
+  {
+    "word": "Set it to equal",
+    "translation": "Установите его равным" 
+  },
+  {
+    "word": "Modify the data",
+    "translation": "Изменить данные" 
+  },
+  {
+    "word": "Takes parameters",
+    "translation": "Принимает параметры" 
+  },
+  {
+    "word": "console.log will display",
+    "translation": "Консоль отобразит" 
+  },
+  {
+    "word": "Assigning",
+    "translation": "Присвоение" 
+  }
+]
