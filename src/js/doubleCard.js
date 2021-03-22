@@ -11,8 +11,12 @@ function wordHandleClick(event) {
   if (event.target.classList.contains('cardTarget') && carouselItemRef) {
     const wordRef = document.querySelector('.active .word');
     const translationRef = document.querySelector('.active .translation');
-    wordRef.classList.toggle('hidden');
-    translationRef.classList.toggle('hidden');
+    wordRef.classList.toggle('transform');
+    translationRef.classList.toggle('transform');
+    setTimeout(() => {
+      wordRef.classList.toggle('hidden');
+      translationRef.classList.toggle('hidden');
+    }, 500);
   }
 }
 
